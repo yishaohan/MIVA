@@ -1,6 +1,6 @@
 # MIVA: Few-Shot-Based Modular Image-to-Video Adapter for Diffusion Models
 
-This repository exhibits the core algorithm described in the paper.
+This repository exhibits the core algorithm described in the paper. For the website demo, please refer to: https://yishaohan.github.io/MIVA-web/
 
 Our codes are based on the following works. Many thanks to the authors.
 * Diffusers: https://github.com/huggingface/diffusers
