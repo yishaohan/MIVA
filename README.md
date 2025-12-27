@@ -33,3 +33,18 @@ Dependent models & datasets
 * LAMP dataset: https://github.com/RQ-Wu/LAMP
 
 The core components are mostly migrated from AnimateDiff version, with light modifications for compatibility.
+
+## Citation
+
+If you find this work useful, please cite:
+
+```bibtex
+@misc{li2025fewshotbasedmodularimagetovideoadapter,
+      title={Few-Shot-Based Modular Image-to-Video Adapter for Diffusion Models}, 
+      author={Zhenhao Li and Shaohan Yi and Zheng Liu and Leonartinus Gao and Minh Ngoc Le and Ambrose Ling and Zhuoran Wang and Md Amirul Islam and Zhixiang Chi and Yuanhao Yu},
+      year={2025},
+      eprint={2512.20000},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2512.20000}, 
+}
